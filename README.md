@@ -8,3 +8,4 @@ My goal is to complete this event without using any AI, we will see how that goe
 |Day 1 | ⭐ ⭐ |
 |Day 2 |       |
 |Day 3 | ⭐    |
+|Day 4 | ⭐ ⭐ |
